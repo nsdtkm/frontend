@@ -5,7 +5,7 @@
     <v-container class="fill-height">
         <v-responsive class="d-flex align-center text-center fill-height">
         <div class="text-body-2 font-weight-light mb-n1">字幕ファイルを一括で多言語翻訳します!</div>
-        <h1 class="text-h2 font-weight-bold">Vuetify</h1>
+        <v-btn to="translate" variant="outlined">翻訳ページへ</v-btn>
         </v-responsive>
       </v-container>
   </v-main>
